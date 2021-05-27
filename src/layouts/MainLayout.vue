@@ -22,9 +22,6 @@
           <li class="logged-in">
             <a href="#" class="grey-text nav" id="logout">Logout</a>
           </li>
-          <li class="logged-in">
-            <a href="#" class="grey-text modal-trigger nav" data-target="modal-create">Create Guide</a>
-          </li>
           <li class="logged-out">
             <a href="#" class="grey-text modal-trigger nav" data-target="modal-login">Login</a>
           </li>
